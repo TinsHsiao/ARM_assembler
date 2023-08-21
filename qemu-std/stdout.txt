@@ -1,0 +1,2 @@
+pflash_write: Unimplemented flash cmd sequence (offset 00000000, wcycle 0x0 cmd 0x0 value 0xf000f0)
+pflash_write: Unimplemented flash cmd sequence (offset 00000000, wcycle 0x0 cmd 0x0 value 0xf0)
