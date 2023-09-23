@@ -2,6 +2,12 @@
 
 
 環境: Linux  
+語言 : Assembly  
+
+  轉謝程式碼，使用組合語言計算，決定二維陣列中每個元素應填入的值，並透過元素投影呈現至畫面，最後畫出	JuliaSet的動畫。  
+  
+
+  
 結果驗證  
 ![image](https://github.com/TinsHsiao/ARM_assembler/assets/91177853/731d341d-6d4d-4387-927b-0db054f96a80)
 ![image](https://github.com/TinsHsiao/ARM_assembler/assets/91177853/d719affe-e15a-40be-9882-ff4f58e73be3)
